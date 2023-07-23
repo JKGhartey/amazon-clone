@@ -32,7 +32,7 @@ navigate("/")
       <Link to="/">
         <img
           className="login__logo"
-          src="https://thumbs.dreamstime.com/b/simple-vector-filled-flat-amazon-icon-logo-solid-black-pictogram-isolated-white-background-amazon-logo-159029074.jpg"
+          src="logo2.png"
           alt="logo"
         />
       </Link>
@@ -67,7 +67,7 @@ navigate("/")
           </p>
 
           <button className="login__registerButton" onClick={register}>
-            Create your Amazon account
+            Create your account
           </button>
         </form>
       </div>

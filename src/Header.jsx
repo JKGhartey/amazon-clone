@@ -13,8 +13,8 @@ function Header() {
       <Link to="/">
         <img
           className="header__logo"
-          src="https://www.spectre.ai/assets/images/assets/AMZN-logo.png?v=2.13"
-          alt="amazon"
+          src="/logo2.png"
+          alt="urban"
         />
       </Link>
 
